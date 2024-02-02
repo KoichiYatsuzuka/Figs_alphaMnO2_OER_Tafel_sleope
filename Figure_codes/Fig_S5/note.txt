@@ -1,0 +1,12 @@
+Mn2O3_Mn_3pMn2O3_MnL_3002.DAT:
+	ファイル命名ミス
+	Mn2O3のMn-L端のXAFS
+	
+MnO2_CVs_Mn_L_r100X.DAT
+	連続測定のため、分かりにくい命名になってしまっている
+	X=1 -> CV0回
+	X=2 -> CV60回後
+
+MnO2_Mn_3p001.DAT
+	ファイル命名ミス
+	市販品δ-MnO2のMn-L端のXAFS
